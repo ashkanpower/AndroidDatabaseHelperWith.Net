@@ -1,0 +1,11 @@
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\bin\Debug\AndoirdDatabaseHelper.exe.config
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\bin\Debug\AndoirdDatabaseHelper.exe
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\bin\Debug\AndoirdDatabaseHelper.pdb
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\obj\Debug\AndoirdDatabaseHelper.Form1.resources
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\obj\Debug\AndoirdDatabaseHelper.Properties.Resources.resources
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\obj\Debug\AndoirdDatabaseHelper.csproj.GenerateResource.Cache
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\obj\Debug\AndoirdDatabaseHelper.exe
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\obj\Debug\AndoirdDatabaseHelper.pdb
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\obj\Debug\AndoirdDatabaseHelper.FrmQuery.resources
+c:\users\ashkan.pga\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\obj\Debug\AndoirdDatabaseHelper.csprojResolveAssemblyReference.cache
+C:\Users\ashkan.PGA\documents\visual studio 2012\Projects\AndoirdDatabaseHelper\AndoirdDatabaseHelper\obj\Debug\AndoirdDatabaseHelper.FrmAddAttr.resources

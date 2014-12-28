@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndoirdDatabaseHelper", "AndoirdDatabaseHelper\AndoirdDatabaseHelper.csproj", "{2A042C2F-5114-4174-821B-88C70C73EEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A042C2F-5114-4174-821B-88C70C73EEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A042C2F-5114-4174-821B-88C70C73EEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A042C2F-5114-4174-821B-88C70C73EEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A042C2F-5114-4174-821B-88C70C73EEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
